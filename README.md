@@ -4,8 +4,8 @@ more data
 ## HEAD 2
 updated readme.md  
 
-## HEAD 3
-updated readme.md  
+## HEAD 3 causing trouble
+updated readme.md  causing trouble
 
-## HEAD 4
-updated readme.md
+## HEAD 4 causing trouble
+updated readme.md causing trouble
